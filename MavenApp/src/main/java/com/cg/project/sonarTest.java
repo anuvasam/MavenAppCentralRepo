@@ -6,7 +6,7 @@ public static void main(String[] args) {
 	int i=10;
 	int s=0;
 	s+=i;
-	System.out.println("result" +s);
+	System.out.println("Result" +s);
 	
 }
 
